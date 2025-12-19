@@ -1,6 +1,6 @@
 # CVD Detection and Correction Mobile Application
 
-A comprehensive mobile application for Cardiovascular Disease (CVD) detection and correction using AI models, built with React Native frontend and FastAPI backend.
+A comprehensive mobile application for Color Vision Deficiency (CVD) detection and correction using AI models, built with React Native frontend and FastAPI backend.
 
 ## Project Structure
 
